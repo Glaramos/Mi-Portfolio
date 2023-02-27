@@ -1,4 +1,4 @@
-# Descripción 👜 Mi-Portfolio 
+# Descripción Mi-Portfolio👜
 
 Este es mi portfolio realizado en HTML y CSS
 
@@ -13,4 +13,4 @@ Este es mi portfolio realizado en HTML y CSS
 * [https://glaramos.github.io/Mi-Portfolio/]( https://glaramos.github.io/Mi-Portfolio/)
 
 # Contratación
-Si quieres contratarme puedes escribirme a gladysangelicaramos@gmail.com
+Si quieres contratarme puedes escribirme a💁‍♀️ gladysangelicaramos@gmail.com
