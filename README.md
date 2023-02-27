@@ -1,6 +1,6 @@
 # Descripción Mi-Portfolio👜
 
-Este es mi portfolio realizado en HTML y CSS
+Este es mi portfolio realizado en HTML y CSS, Javascript
 
 # Autor🖊
 
